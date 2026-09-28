@@ -24,7 +24,7 @@ QUERY = "google.com"
 CHECK_INTERVAL = 60
 
 GMAIL_USER = os.getenv("aafaq.ali.5209@gmail.com")
-GMAIL_APP_PASSWORD = os.getenv("rpse rnhg pzgd qhra")
+GMAIL_APP_PASSWORD = os.getenv("dsklj ;plkl klkla kjkjk")
 GMAIL_TO = os.getenv("afaq.ali.5209@gmail.com", GMAIL_USER)
 
 previous_status = {ip: True for ip in DNS_SERVERS}
